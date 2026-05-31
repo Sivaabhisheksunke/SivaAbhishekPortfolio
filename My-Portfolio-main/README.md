@@ -1,78 +1,156 @@
-# Data Analyst Portfolio - Siva Abhishek Sunke
+# 👋 Hi, I'm Abhishek Sunke
 
-> Feel free to use this template but **credit appreciated** ⭐
+### Data Analyst | AWS Cloud Associate | AI & Data Science Undergraduate
 
-![Data Analyst Portfolio](https://github.com/Sivaabhisheksunke/Your-Repo/blob/main/portfolio-screenshot.png)
+<p align="center">
+  <img src="portfolio-screenshot.png" alt="Portfolio Preview" width="900">
+</p>
 
-Hi there! I'm **Siva Abhishek Sunke**, a final-year B.Tech student specializing in **Artificial Intelligence and Data Science**. This portfolio website is built with **HTML, CSS, Bootstrap, and JavaScript** to showcase my skills, projects, and certifications in Data Analytics.
-
-> Want to collaborate or discuss data analytics projects? Shoot me an email at **abhisheksunke03@gmail.com**. Let's connect over a virtual coffee! ☕
-
----
-
-## **Portfolio Features:**
-
-- **Responsive & Modern Design:** Works seamlessly on desktop, tablet, and mobile.
-- **Clean, Recruiter-Friendly Layout:** Sections highlight skills, tools, projects, and certifications effectively.
-- **Data Analytics Focus:** Showcases SQL, Python, Power BI, Excel, and other key tools.
-- **Projects & Real Data Work:** Explore projects like:
-  - **COVID-19 Data Visualization**
-  - **Heart Disease Analysis**
-  - **Sales Dashboard**
-  - **Facebook & Instagram Analysis**
-  - **Credit Score Customer Report**
-- **Certifications Highlighted:** IBM Data Analyst, Google Advanced Data Analytics, and Azure DP-900 prep.
-- **Testimonials & Recommendations:** Genuine feedback from peers and collaborators.
-- **SEO Optimized:** Meta tags included for better discoverability.
+<p align="center">
+  <b>Transforming Data into Business Insights with Analytics & Cloud Technologies</b>
+</p>
 
 ---
 
-## **Technologies & Skills:**
+## 🚀 About Me
 
-**Core Skills:**  
-SQL, Python, Excel, Power BI, Data Storytelling, NumPy, Pandas, Matplotlib, Seaborn, SciPy, SQLAlchemy, OpenPyXL, Cloud Analytics (Azure)
+🎓 B.Tech (Honors) in Artificial Intelligence & Data Science
+📍 Hyderabad, India
+☁️ AWS Certified Cloud Practitioner & AWS Certified AI Practitioner
+📊 Passionate about Data Analytics, Business Intelligence, and Cloud Data Engineering
 
-**Tools:**  
-VS Code, Git, GitHub, Power BI, Excel, Google Colab, Azure
-
-**Libraries:**  
-Python Libraries: Pandas, Numpy, Matplotlib, Seaborn, SciPy, SQLAlchemy, OpenPyXL
+I specialize in building scalable data solutions, analyzing complex datasets, and creating impactful dashboards that support business decisions.
 
 ---
 
-## **Certifications:**
+## 💡 What I Bring
 
-- **IBM Data Analyst Professional Certificate**  
-  Build job-ready skills in data analysis and AI for an in-demand career. Credential by IBM.
+✅ Data Analytics & Business Intelligence
 
-- **Google Advanced Data Analytics Professional Certificate**  
-  Learn statistical analysis, Python, regression, and machine learning in under 6 months.
+✅ SQL & Python-Based Data Processing
 
-- **Preparing for DP-900: Microsoft Azure Data Fundamentals Exam**  
-  Part of the Microsoft Azure Data Fundamentals DP-900 Exam Prep Specialization.
+✅ AWS Cloud Data Engineering
 
-_(Add more certifications later as needed – include badge links in the portfolio section)_
+✅ Interactive Power BI Dashboards
 
----
+✅ ETL Pipeline Development
 
-## **Connect With Me**
-
-- **Email:** abhisheksunke03@gmail.com
-- **Phone:** +91 9642618818
-- **LinkedIn:** [linkedin.com/in/abhisheksunke03](https://www.linkedin.com/in/abhisheksunke03/)
-- **GitHub:** [github.com/Sivaabhisheksunke](https://github.com/Sivaabhisheksunke)
-- **Naukri:** [naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
+✅ Data Modeling & Reporting
 
 ---
 
-## **Why This Portfolio Stands Out**
+## 🛠️ Tech Stack
 
-- **Recruiter-Focused:** Emphasizes skills, tools, projects, and certifications that matter most for a fresher data analyst.
-- **Real Work Showcase:** Includes projects demonstrating data visualization, analysis, and actionable insights.
-- **Clean & Accessible:** Modern UI/UX design, responsive layout, and recruiter-friendly content hierarchy.
+### Languages & Databases
+
+`Python` `SQL` `MySQL`
+
+### Data Analytics
+
+`Power BI` `DAX` `Power Query` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+### Cloud & Data Engineering
+
+`AWS Lambda` `AWS Glue` `Amazon S3` `Amazon Athena` `Amazon QuickSight`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `Google Colab`
 
 ---
 
-## **Explore the Code**
+## 📈 Impact Highlights
 
-Check out the code on GitHub: [github.com/Sivaabhisheksunke](https://github.com/Sivaabhisheksunke)
+| Achievement              | Impact                              |
+| ------------------------ | ----------------------------------- |
+| AWS Data Lake Project    | Processed 10GB+ YouTube data        |
+| Pharmaceutical Analytics | Analyzed $11.8B sales records       |
+| Financial Analytics      | Evaluated $55M+ transactions        |
+| Marketing Analytics      | Processed 100K+ ad impressions      |
+| Query Optimization       | Reduced Athena query latency by 30% |
+
+---
+
+## 🔥 Featured Projects
+
+### 💊 Pharmaceutical Sales & Inventory Engine
+
+**Python • Pandas • Power BI • ETL**
+
+* Processed **$11.8 Billion** in pharmaceutical sales data
+* Built Power BI Star Schema Model
+* Identified revenue drivers across 50+ regional markets
+* Delivered inventory optimization insights
+
+---
+
+### 💳 Credit Card Financial Analytics
+
+**SQL • Power BI • DAX**
+
+* Analyzed **$55M+ transaction data**
+* Identified high-value customer segments
+* Built executive-level financial dashboards
+* Improved visibility into profitability metrics
+
+---
+
+### 📢 Meta Ad Performance Analytics
+
+**Power BI • Marketing Analytics**
+
+* Evaluated **100K+ advertising impressions**
+* Identified highest-converting audience segments
+* Automated KPI tracking for ROAS, CPC, CTR
+* Enabled data-driven budget optimization
+
+---
+
+## 💼 Professional Experience
+
+### Research Assistant – Data Engineering
+
+**Koneru Lakshmaiah University**
+*Dec 2025 – Mar 2026*
+
+* Designed and deployed serverless ETL pipelines using AWS Lambda and AWS Glue
+* Built a centralized AWS Data Lake architecture
+* Automated schema evolution and data transformation workflows
+* Developed QuickSight dashboards for business reporting
+
+---
+
+## 🏆 Certifications
+
+🏅 AWS Certified AI Practitioner
+
+🏅 AWS Certified Cloud Practitioner
+
+🏅 Microsoft Certified: Azure AI Fundamentals
+
+---
+
+## 📚 Education
+
+**B.Tech (Honors) – Artificial Intelligence & Data Science**
+Koneru Lakshmaiah University
+
+🎯 CGPA: **9.27 / 10**
+
+---
+
+## 📬 Let's Connect
+
+📧 **[abhisheksunke03@gmail.com](mailto:abhisheksunke03@gmail.com)**
+
+💼 **LinkedIn:** linkedin.com/in/abhisheksunke03
+
+💻 **GitHub:** github.com/Sivaabhisheksunke
+
+---
+
+<div align="center">
+
+### ⭐ Turning Data into Decisions, One Insight at a Time
+
+</div>
