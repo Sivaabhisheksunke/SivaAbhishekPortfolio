@@ -3,7 +3,7 @@
 ### Data Analyst | AWS Cloud Associate | AI & Data Science Undergraduate
 
 <p align="center">
-  <img src="portfolio-screenshot.png" alt="Portfolio Preview" width="900">
+  <img src="HomePageOfPortfolio.png" alt="Portfolio Preview" width="900">
 </p>
 
 <p align="center">
